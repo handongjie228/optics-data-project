@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+_pdf_build/
+_ppt_build/
+*.md
+*.pdf
+*.html
