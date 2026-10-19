@@ -1,0 +1,5 @@
+label,wavelength_nm,slit_um,separation_um,count,distance_m,screen_mm
+单缝,650,100,500,1,1.0,25
+双缝,650,100,500,2,1.0,25
+五缝,650,100,500,5,1.0,25
+双缝-532nm-1.5m,532,80,400,2,1.5,30
